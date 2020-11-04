@@ -6,4 +6,4 @@
 - SQL
 - ASP.NET
 ## Kullanılan Methodoloji
--Waterfall
+- Waterfall
